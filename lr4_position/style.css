@@ -1,0 +1,180 @@
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.block {
+  width: 70%;
+  margin: auto;
+}
+
+#block1 {
+  height: 600px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+#one {
+  position: relative;
+  top: 100px;
+  left: 60px;
+  border: red;
+  border-style: solid;
+}
+
+#two {
+  position: relative;
+  top: 250px;
+  left: 80px;
+  border: purple;
+  border-style: solid;
+}
+
+#three {
+  position: relative;
+  top: 400px;
+  left: 150px;
+  border: green;
+  border-style: solid;
+}
+
+#block2 {
+  margin-top: 25px;
+  height: 600px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+#first {
+  position: relative;
+  top: 100px;
+  left: 60px;
+  background: red;
+}
+
+#second {
+  position: relative;
+  top: 170px;
+  left: 10px;
+  background: purple;
+}
+
+#third {
+  position: relative;
+  top: 240px;
+  left: -50px;
+  background: green;
+}
+
+#block3 {
+  margin-top: 25px;
+  height: 600px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+#a {
+  position: relative;
+  top: 100px;
+  left: 60px;
+  background: red;
+}
+
+#b {
+  position: relative;
+  top: 170px;
+  left: 10px;
+  background: purple;
+  z-index: 1;
+}
+
+#c {
+  position: relative;
+  top: 240px;
+  left: -50px;
+  background: green;
+}
+
+#block4 {
+  margin-top: 550px;
+  height: 800px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+.box_1 {
+  display: inline-block;
+  width: 750px;
+  height: 790px;
+}
+
+#box1 {
+  position: relative;
+  top: 4px;
+  left: 80px;
+  background: green;
+}
+
+.box_2 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+#box2 {
+  position: relative;
+  top: -750px;
+  left: 150px;
+  background: white;
+}
+
+.box_3 {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+}
+
+#box3 {
+  position: relative;
+  top: -250px;
+  left: 350px;
+  background: white;
+}
+
+#block5 {
+  height: 80px; 
+  width:  960px; 
+  border: black;
+  border-style: dotted;
+  background:blue;
+}
+
+h1 {
+  text-align:center;
+  color:white;
+}
+
+.box_a {
+  display: inline-block;
+  width: 1000px;
+  height: 600px;
+}
+#box_4 {
+  position:absolute;
+  width: 50%;
+  height: 20%;
+  background-color: white;
+  overflow:scroll;
+  border: green;
+  border-style: solid;
+}
+
+
+
+
+

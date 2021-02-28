@@ -146,5 +146,35 @@
   background: white;
 }
 
+#block5 {
+  height: 80px; 
+  width:  960px; 
+  border: black;
+  border-style: dotted;
+  background:blue;
+}
+
+h1 {
+  text-align:center;
+  color:white;
+}
+
+.box_a {
+  display: inline-block;
+  width: 1000px;
+  height: 600px;
+}
+#box_4 {
+  position:absolute;
+  width: 50%;
+  height: 20%;
+  background-color: white;
+  overflow:scroll;
+  border: green;
+  border-style: solid;
+}
+
+
+
 
 

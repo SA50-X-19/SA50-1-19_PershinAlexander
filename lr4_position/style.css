@@ -1,0 +1,72 @@
+.box {
+  display: inline-block;
+  width: 100px;
+  height: 100px;
+}
+
+.block {
+  width: 70%;
+  margin: auto;
+}
+
+#block1 {
+  height: 600px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+#one {
+  position: relative;
+  top: 100px;
+  left: 60px;
+  border: red;
+  border-style: solid;
+}
+
+#two {
+  position: relative;
+  top: 250px;
+  left: 80px;
+  border: purple;
+  border-style: solid;
+}
+
+#three {
+  position: relative;
+  top: 400px;
+  left: 150px;
+  border: green;
+  border-style: solid;
+}
+
+#block2 {
+  margin-top: 25px;
+  height: 600px; 
+  border: black;
+  border-style: dotted;
+  background:white;
+}
+
+#first {
+  position: relative;
+  top: 100px;
+  left: 60px;
+  background: red;
+}
+
+#second {
+  position: relative;
+  top: 170px;
+  left: 10px;
+  background: purple;
+}
+
+#third {
+  position: relative;
+  top: 240px;
+  left: -50px;
+  background: green;
+}
+
+

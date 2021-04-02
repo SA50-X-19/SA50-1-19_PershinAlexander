@@ -101,4 +101,23 @@
 transform: skew(10deg);
 }
 
+.sign__up:hover { 
+-webkit-transform: translate(10px);
+transform: translate(10px); 
+box-shadow: 0 5px 15px rgba(0, 0, 0, 0.5) 
+}
+
+.about:hover{
+    background-color: black;
+    transition-duration: 350ms;
+}
+
+.header__logo:hover{
+    transform: scale(1.1);
+}
+
+.menu__items:hover {
+  transform: translateY(-5px);
+}
+
 
